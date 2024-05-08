@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hello 👋
+⚡ Student
+⚡ .NET
+⚡ Unity
+⚡ Unreal Engine
 <!--
 **evilfactory/evilfactory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
