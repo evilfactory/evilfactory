@@ -1,7 +1,7 @@
-Hi. I'm that one nerd that implements weirdly specific features into your software.
+Hi. I build games, tools, and occasionally problems for myself.
 
-I primarily work with C#, but I also do C++, Lua, Python and sometimes JavaScript when I feel like torturing myself.
+I primarily work with C#, but I also use C++, Lua, Python, and occasionally JavaScript when I feel like torturing myself.
 
 I enjoy game dev and have a variety of experiences with Unity, Unreal Engine and Godot.
 
-I'm currently working on Barotrauma as a contractor for FakeFish. I'm also working on my homemade game engine built on top of Silk.NET in my spare time.
+I'm currently working on Barotrauma as a contractor for FakeFish. In my spare time, I'm building a custom game engine on top of Silk.NET.
